@@ -1,0 +1,2 @@
+/data    f2fs    /dev/block/by-name/userdata
+/cache   ext4    /dev/block/by-name/cache

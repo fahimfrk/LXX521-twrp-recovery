@@ -1,0 +1,5 @@
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/twrp_LXX521.mk
+
+COMMON_LUNCH_CHOICES := \
+    twrp_LXX521-eng
