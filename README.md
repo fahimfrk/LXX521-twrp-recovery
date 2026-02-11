@@ -9,12 +9,12 @@ Right now ,I compiled successfully for my device and it is being under rigorous 
 ## Specifications
 
 
-### MODEL       -LXX521
-### NAME        -LAVA PLAY ULTRA
-### PROCESSOR   -MEDIATEK DIMENSITY 7300
-### STORAGE     -6/8GB 128GB UFS 3.1
-### DISPLAY     -1200*2400 (AMOLED)
-### OS          -STOCK
+##### MODEL       -LXX521
+##### NAME        -LAVA PLAY ULTRA
+##### PROCESSOR   -MEDIATEK DIMENSITY 7300
+##### STORAGE     -6/8GB 128GB UFS 3.1
+##### DISPLAY     -1200*2400 (AMOLED)
+##### OS          -STOCK
 
 
 i will update ERROR LOGS FROM TERMINAL .if anybody know the solution,please help me to resolve the issue.
