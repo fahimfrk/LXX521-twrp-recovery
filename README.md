@@ -3,9 +3,18 @@ I started this project as a timepass and also to experience the painful process 
 exhaustion,bootlooping,debugging,finding correct .ko files and fixing broken dependencies.
 
 ## Development
-Right now ,I compiled sucessfully for my device and it is being under rigorous tesiting and once i feel to release after fixing the problems ,i will share with you guys.
+Right now ,I compiled successfully for my device and it is being under rigorous tesiting process and if i feel to release after fixing the problems ,i will share with you guys.
 
 # Device Tree - Lava Play Ultra 5g 
+## Specifications
+
+
+### MODEL       -LXX521
+### NAME        -LAVA PLAY ULTRA
+### PROCESSOR   -MEDIATEK DIMENSITY 7300
+### STORAGE     -6/8GB 128GB UFS 3.1
+### DISPLAY     -1200*2400 (AMOLED)
+### OS          -STOCK
 
 
 i will update ERROR LOGS FROM TERMINAL .if anybody know the solution,please help me to resolve the issue.
