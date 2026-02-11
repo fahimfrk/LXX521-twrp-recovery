@@ -1,6 +1,11 @@
-HI..
-I AM CURRENTLY TRYING TO PORT A TWRP RECOVERY FOR MY DEVICE AND I AM STUCK AT MIDDLE OF COMPILATION PROCESS (ALMOST 99%).I AM DISAPPOINTED SINCE I CANT MAKE IT REAL.
-THIS IS A HOBBY PROJECT FOR ME TO LEARN ABOUT THE OPEN SOURCE COMMUNITY AND HOW A DEVICE WORKS.I AM NOT HARDCORE DEVELOPER.
+# WHY THIS PROJECT
+I started this project as a timepass and also to experience the painful process of a developer to compile a rom or whatever.I went through a lot of struggles like 
+exhaustion,bootlooping,debugging,finding correct .ko files and fixing broken dependencies.
+
+## Development
+Right now ,I compiled sucessfully for my device and it is being under rigorous tesiting and once i feel to release after fixing the problems ,i will share with you guys.
+
+# Device Tree - Lava Play Ultra 5g 
 
 
 i will update ERROR LOGS FROM TERMINAL .if anybody know the solution,please help me to resolve the issue.
