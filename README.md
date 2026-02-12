@@ -1,9 +1,9 @@
 # WHY THIS PROJECT
-I started this project as a timepass and also to experience the painful process of a developer to compile a rom or whatever.I went through a lot of struggles like 
-exhaustion,bootlooping,debugging,finding correct .ko files and fixing broken dependencies.
+I started this project as a timepass and also to experience the painful process of a compilation of rom.I went through a lot of struggles like 
+bootlooping,debugging,finding correct .ko files and fixing broken dependencies.
 
 ## Development
-Right now ,I compiled successfully for my device and it is being under rigorous tesiting process and if i feel to release after fixing the problems ,i will share with you guys.
+Right now ,I have successfully compiled twrp for my device and it is being under rigorous tesiting process and if i feel to release recovery after fixing the problems ,i will share with you guys.
 
 # Device Tree - Lava Play Ultra 5g 
 ## Specifications
