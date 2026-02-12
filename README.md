@@ -27,7 +27,7 @@ Right now ,I have successfully compiled twrp for my device and it is being under
 ###### CANT INSTALL ZIP FILES (WORKING ON IT)
 
 ## DEVICE TREE
-If you want to build twrp recovery for dimensity 7300 soc ,you can freely clone my and make neccessary changes into it.
+If you want to build twrp recovery for dimensity 7300 soc ,you can freely clone my repo and make neccessary changes into it.
 ### Dont try to compile as it is on here,because this device tree is highly specific for LAVA PLAY ULTRA 5G.
 
 ## CREDITS AND THANK
