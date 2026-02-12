@@ -27,8 +27,9 @@ Right now ,I have successfully compiled twrp for my device and it is being under
 ###### CANT INSTALL ZIP FILES (WORKING ON IT)
 
 ## DEVICE TREE
-IF YOU WANT TO BUILD TWRP FOR DIMENSITY 7300 PROCESSOR ,YOU CAN CLONE THIS REPO AND MAKE CHANGES CORRESPONDING TO YOUR DEVICE ,DONT COMPILE AND SIMPLY USE BECAUSE IT WILL RESULT IN BOOTLOOPING.
+If you want to build twrp recovery for dimensity 7300 soc ,you can freely clone my and make neccessary changes into it.
+### Dont try to compile as it is on here,because this device tree is highly specific for LAVA PLAY ULTRA 5G.
 
 # CREDITS AND THANK
-XDA DEVELOPER 
+## ---XDA DEVELOPER 
 
