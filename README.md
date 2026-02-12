@@ -17,10 +17,10 @@ Right now ,I compiled successfully for my device and it is being under rigorous 
 ##### OS          -STOCK
 
 ## WORKING ON TWRP
-###### NO BOOTLOOPING
-###### RECOVERY TOUCH WORKS
-###### ADB SIDELOADING WORKS
-###### BASIC OPERATIONS ARE FINE
+##### NO BOOTLOOPING
+##### RECOVERY TOUCH WORKS
+##### ADB SIDELOADING WORKS
+##### BASIC OPERATIONS ARE FINE
 
 ## BUGS
 ###### PARTITION MOUNT - ERROR(CURRENTLY WORKING ON IT)
